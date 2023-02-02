@@ -1,0 +1,100 @@
+Last login: Thu Feb  2 11:20:54 on ttys000
+luna2020@Javiers-Air ~ % cd hands_on_aws
+luna2020@Javiers-Air hands_on_aws % ls
+#AWS CLI.txt
+2-subnetting_scenarios-page-5-17.pdf
+3-System&Network-Eng.-Candidate-Task-3&4.pdf
+4-Trendyol-Network.pdf
+AWS CLI Command Reference.docx
+Basics for NGINX.docx
+EC2-04_EBS_Volumes
+EC2_02_ Nginx Web Server on EC2 Linux 2
+Exam-Encrypton of Root Device via Snapshot.png
+How-to-Subnet 10.pdf
+Linux-06 - Shell Scripting Basics
+Ngnix.txt
+RDS_with_console.txt
+S3-1-cat.rtf
+Shell Scripting-loops&functions.docx
+Stack
+Subnetting Practice.docx
+aritmetic_expressions
+cat.jpg
+cat1.jpg
+cat2.jpg
+cat3.jpg
+chmod 700
+clarusway-aws-devops-DE-04
+ec2console.CLI.output.txt
+example.yaml
+git.clone.Python-Flask % git commit -m "init".txt
+index.html
+inside_folder.txt
+mariadb-10.11.1-linux-systemd-x86_64.tar.gz
+miliquitito.py
+milliseconds.py
+my_key_pair.pem
+mysql-workbench-community-8.0.31-macos-x86_64 (1).dmg
+name.py
+ohio-2.pem
+outside_folder.txt
+pkg-CLIV-2.pkg
+rootkey.csv
+tag_file.txt
+tag_file2.txt
+team_work_aws
+temp-asg-elb.txt
+variables
+wp-subnetting-an-ip-address.pdf
+luna2020@Javiers-Air hands_on_aws % cd clarusway-aws-devops-DE-04
+luna2020@Javiers-Air clarusway-aws-devops-DE-04 % ls
+Flask_Cloudformation_CLI	linux
+LICENSE.md			network-basics
+README.md			python
+aws				teamwork-agendas
+luna2020@Javiers-Air clarusway-aws-devops-DE-04 % git pull
+remote: Enumerating objects: 39, done.
+remote: Counting objects: 100% (39/39), done.
+remote: Compressing objects: 100% (25/25), done.
+remote: Total 39 (delta 17), reused 35 (delta 13), pack-reused 0
+Unpacking objects: 100% (39/39), 1.26 MiB | 9.16 MiB/s, done.
+From https://github.com/clarusway/clarusway-aws-devops-DE-04
+   fb98d59..48ba45c  main       -> origin/main
+Updating fb98d59..48ba45c
+Fast-forward
+ aws/Hands_on/02_01_2023-Guile-DynamoDB/README.md   | 160 +++++++++++++++++++++
+ .../02_01_2023-Guile-DynamoDB/sampledata.zip       | Bin 0 -> 1997 bytes
+ aws/InclassSlides/Portfolio_5_SQLlite_Mysql.pptx   | Bin 0 -> 1232495 bytes
+ .../README.md                                      |  93 ++++++++++++
+ .../app-with-mysql.py                              | 114 +++++++++++++++
+ .../app-with-sqlite.py                             |  88 ++++++++++++
+ .../database.png                                   | Bin 0 -> 101291 bytes
+ .../instance/email.db                              | Bin 0 -> 12288 bytes
+ .../templates/add-email.html                       |  26 ++++
+ .../templates/emails.html                          |  25 ++++
+ 10 files changed, 506 insertions(+)
+ create mode 100644 aws/Hands_on/02_01_2023-Guile-DynamoDB/README.md
+ create mode 100644 aws/Hands_on/02_01_2023-Guile-DynamoDB/sampledata.zip
+ create mode 100644 aws/InclassSlides/Portfolio_5_SQLlite_Mysql.pptx
+ create mode 100644 python/handson/flask-05-Handling-SQL-with-Flask-Web-Application/README.md
+ create mode 100644 python/handson/flask-05-Handling-SQL-with-Flask-Web-Application/app-with-mysql.py
+ create mode 100644 python/handson/flask-05-Handling-SQL-with-Flask-Web-Application/app-with-sqlite.py
+ create mode 100644 python/handson/flask-05-Handling-SQL-with-Flask-Web-Application/database.png
+ create mode 100644 python/handson/flask-05-Handling-SQL-with-Flask-Web-Application/instance/email.db
+ create mode 100644 python/handson/flask-05-Handling-SQL-with-Flask-Web-Application/templates/add-email.html
+ create mode 100644 python/handson/flask-05-Handling-SQL-with-Flask-Web-Application/templates/emails.html
+luna2020@Javiers-Air clarusway-aws-devops-DE-04 % cd my_projects_aws
+cd: no such file or directory: my_projects_aws
+luna2020@Javiers-Air clarusway-aws-devops-DE-04 % ls                
+Flask_Cloudformation_CLI	linux
+LICENSE.md			network-basics
+README.md			python
+aws				teamwork-agendas
+luna2020@Javiers-Air clarusway-aws-devops-DE-04 % cp -R python/handson/flask-05-Handling-SQL-with-Flask-Web-Application/. /Users/luna2020/my_projects_aws/Flask-SQL
+luna2020@Javiers-Air clarusway-aws-devops-DE-04 % 
+
+
+
+
+
+

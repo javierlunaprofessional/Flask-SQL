@@ -1,0 +1,57 @@
+Last login: Thu Feb  2 13:05:03 on ttys000
+luna2020@Javiers-Air ~ % cd my_projects_aws
+luna2020@Javiers-Air my_projects_aws % ls
+Flask_Cloudformation_CLI	Statick.App.CloudFormation
+Python-Flask			my_key_pair.pem
+Roman-numerals-converter
+luna2020@Javiers-Air my_projects_aws % git clone https://github.com/javiluna84/Flask-SQL.git
+Cloning into 'Flask-SQL'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+luna2020@Javiers-Air my_projects_aws % cd Flask-SQL
+luna2020@Javiers-Air Flask-SQL % pwd
+/Users/luna2020/my_projects_aws/Flask-SQL
+luna2020@Javiers-Air Flask-SQL % ls
+README.md		app-with-sqlite.py	instance
+app-with-mysql.py	database.png		templates
+luna2020@Javiers-Air Flask-SQL % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	app-with-mysql.py
+	app-with-sqlite.py
+	database.png
+	instance/
+	templates/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+luna2020@Javiers-Air Flask-SQL % git add .
+luna2020@Javiers-Air Flask-SQL % git commit -m "init"
+[main 69ac26f] init
+ 7 files changed, 346 insertions(+), 1 deletion(-)
+ create mode 100644 app-with-mysql.py
+ create mode 100644 app-with-sqlite.py
+ create mode 100644 database.png
+ create mode 100644 instance/email.db
+ create mode 100644 templates/add-email.html
+ create mode 100644 templates/emails.html
+luna2020@Javiers-Air Flask-SQL % git push
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (11/11), 101.66 KiB | 20.33 MiB/s, done.
+Total 11 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/javiluna84/Flask-SQL.git
+   1baf38d..69ac26f  main -> main
+luna2020@Javiers-Air Flask-SQL %
